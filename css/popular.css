@@ -1,0 +1,4 @@
+.popularBox{
+   display: grid;
+   grid-template-columns: 4; 
+}

@@ -1,0 +1,45 @@
+.bannerContainer{
+    background: url('../images/bannner.jpg');
+    width: 100%;
+    height: 49vw;
+
+    background-size: 100%;
+    /* padding-top:10vw; */
+    background-repeat: no-repeat;
+}
+.larger{
+    font-size: larger;
+}
+.name{
+font-family: 'Pattaya', sans-serif;
+color: white;
+font-size: xx-large;
+text-align: center;
+}
+.logo1{
+    width: 25%;
+    margin-left: 37.5%;
+    margin-top: 6rem;
+    border-radius: 20px;
+}
+.boldtext{
+    font-family: 'Pattaya', sans-serif;
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+}
+.mobileApp{
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.appHeading{
+    font-family: 'Pattaya';
+    font-size: 3rem;
+}
+.descText{
+    font-family: 'Pattaya';
+    font-size: xx-large;
+}
+.appAvailable{
+    font-size: 1.5rem;
+}

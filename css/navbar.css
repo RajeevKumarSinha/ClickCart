@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navBar{
+    background-color: #171717;
+    position: fixed;
+    width: 100%;
+}
+.logo{
+    width: 160%;
+    cursor: pointer;
+}
+.globalSearch{
+    font-size: large;
+    outline: none;
+    border: 1px solid #05ff71;
+    border-right: none;
+    border-radius: 5px 0 0 5px;
+    width: 90%;
+}
+.mySearch{
+    background-color: white;
+    font-size: larger;
+    padding: 3px 5px 5px 5px;
+    border-right: 1px solid #03ff70;
+    border-top: 1px solid #03ff70;
+    border-bottom: 1px solid #03ff70;
+    border-radius: 0 5px 5px 0;
+    color: #c77802;
+}
+.itmCart{
+    color: #ffde59;
+    font-size: x-large;
+    cursor: pointer;
+}
+.login{
+    color: #ffde59;
+    border: 1px solid #ffde59;
+    padding: 5px 18px;
+    font-size: larger;
+}
+.login:hover{
+    color: #c77802;
+    border-color: #c77802;
+    cursor: pointer;
+}
+.loginBox{
+    margin-top: 19px;
+}
+
+.product{
+    color:#ffde59 !important;
+    outline: none !important;
+    box-shadow: none !important;
+    border: 1px solid #ffde59 !important;
+    font-size: larger !important;
+    margin-top: .7rem;
+}
