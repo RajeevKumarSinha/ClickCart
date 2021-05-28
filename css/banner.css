@@ -12,14 +12,14 @@
 }
 .name{
 font-family: 'Pattaya', sans-serif;
-color: white;
+color: white
 font-size: xx-large;
 text-align: center;
 }
 .logo1{
     width: 25%;
     margin-left: 37.5%;
-    margin-top: 6rem;
+    margin-top: 9rem;
     border-radius: 20px;
 }
 .boldtext{
